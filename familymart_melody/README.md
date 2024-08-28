@@ -16,6 +16,8 @@
 
 ブザーのプラス側をArduinoのデジタルピン5に、マイナス側をGNDに接続します。
 
+![UNO](images/boad_buzzer.jpg)
+
 ## プログラムの使用方法
 
 1. Arduino IDEを開きます。
